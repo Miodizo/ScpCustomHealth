@@ -7,7 +7,7 @@ namespace ScpCustomHealth
     {
         public override string Author => "Miodzio";
         public override string Name => "ScpCustomHealth";
-        public override Version Version => new(1, 0, 1);
+        public override Version Version => new(1, 0, 2);
         public override Version RequiredExiledVersion => new(8, 11, 0);
 
         public static Plugin Singleton;
