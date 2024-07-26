@@ -1,5 +1,5 @@
 # ScpCustomHealth
-Simple EXILED plugin for SCP: Secret Laboratory which Can set custom health values for SCP.
+Simple EXILED plugin for SCP: Secret Laboratory which allows to set custom health values to SCP.
 
 # Instalation
 1. Download the [latest release](https://github.com/Miodizo/ScpCustomHealth/releases/tag/Latest) of the plugin from the GitHub repository.
