@@ -12,14 +12,14 @@ scp_custom_health:
   is_enabled: true
   debug: false
   # Defines SCP-173 Health
-  scp173helath: 4500
+  scp173health: 4500
   # Defines SCP-106 Health
-  scp106helath: 2300
+  scp106health: 2300
   # Defines SCP-049 Health
-  scp049helath: 2300
+  scp049health: 2300
   # Defines SCP-096 Health
-  scp096helath: 2500
+  scp096health: 2500
   # Defines SCP-939 Health
-  scp939helath: 1250
+  scp939health: 1250
   # Defines SCP-3114 Health
-  scp3114helath: 2700
+  scp3114health: 2700
