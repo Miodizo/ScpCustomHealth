@@ -9,22 +9,22 @@ namespace ScpCustomHealth
             switch (ev.Player.Role.Type)
             {
                 case RoleTypeId.Scp173:
-                    ev.Player.Health = Plugin.Singleton.Config.Scp173helath;
+                    ev.Player.Health = Plugin.Singleton.Config.Scp173health;
                     break;
                 case RoleTypeId.Scp049:
-                    ev.Player.Health = Plugin.Singleton.Config.Scp049helath;
+                    ev.Player.Health = Plugin.Singleton.Config.Scp049health;
                     break;
                 case RoleTypeId.Scp106:
-                    ev.Player.Health = Plugin.Singleton.Config.Scp106helath;
+                    ev.Player.Health = Plugin.Singleton.Config.Scp106health;
                     break;
                 case RoleTypeId.Scp939:
-                    ev.Player.Health = Plugin.Singleton.Config.Scp939helath;
+                    ev.Player.Health = Plugin.Singleton.Config.Scp939health;
                     break;
                 case RoleTypeId.Scp096:
-                    ev.Player.Health = Plugin.Singleton.Config.Scp096helath;
+                    ev.Player.Health = Plugin.Singleton.Config.Scp096health;
                     break;
                 case RoleTypeId.Scp3114:
-                    ev.Player.Health = Plugin.Singleton.Config.Scp3114helath;
+                    ev.Player.Health = Plugin.Singleton.Config.Scp3114health;
                     break;
             }
         }
